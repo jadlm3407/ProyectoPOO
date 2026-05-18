@@ -1,0 +1,130 @@
+A;Ciencia de los cuerpos celestes;astronomía
+A;Ausencia de estado;anarquía
+A;Arte de diseñar edificios;arquitectura
+A;Ciudad de los canales holandeses;ámsterdam
+A;Aleación de hierro;acero
+B;Estudio de la vida;biología
+B;Capital de Colombia;bogotá
+B;Arte ornamental recargado;barroco
+B;Relato de una vida;biografía
+B;Mide la presión del aire;barómetro
+C;Sede del gobierno venezolano;caracas
+C;Ciencia del corazón;cardiología
+C;Grupo de estrellas con nombre;constelación
+C;Caja ósea del cerebro;cráneo
+C;Cien años de tiempo;centuria
+D;Gobierno del pueblo;democracia
+D;Exceso de glucosa;diabetes
+D;Estudio médico de la piel;dermatología
+D;Capital de Irlanda;dublín
+D;Región de escasa lluvia;desierto
+E;Paralelo cero grados;ecuador
+E;Ciencia de la riqueza;economía
+E;Teoría de Darwin;evolución
+E;Berilo de color verde;esmeralda
+E;Energía del viento;eólica
+F;Estudio de la materia;física
+F;Miedo desproporcionado;fobia
+F;Vegetación de una región;flora
+F;Nombre del filósofo Nietzsche;friedrich
+F;Hueso del muslo;fémur
+G;Ciencia de la corteza terrestre;geología
+G;Atracción de los cuerpos;gravedad
+G;Lucha armada prolongada;guerra
+G;Órgano que segrega sustancias;glándula
+G;Estado de la materia sin forma;gaseoso
+H;Estudio de hechos pasados;historia
+H;Ciudad portuaria de Cuba;habana
+H;Pérdida de sangre;hemorragia
+H;Semidiós griego muy fuerte;hércules
+H;Diez mil metros cuadrados;hectárea
+I;Nación de Yakarta;indonesia
+I;Dificultad para dormir;insomnio
+I;Aumento de precios;inflación
+I;Tramos del tubo digestivo;intestino
+I;Capital de Pakistán;islamabad
+J;Ciudad santa de tres religiones;jerusalén
+J;Felino manchado americano;jaguar
+J;Gigante gaseoso del sistema solar;júpiter
+J;Silicato verde ornamental;jade
+J;Retirado de la vida laboral;jubilado
+K;Capital de Ucrania;kiev
+K;Escala de temperatura absoluta;kelvin
+K;Metrópoli del Ganges;kolkata
+K;Lucha tradicional china;kung-fu
+K;Emperador de Alemania;káiser
+L;Ciudad de los Reyes en Perú;lima
+L;Felino ibérico amenazado;lince
+L;Lengua de Cicerón;latín
+L;Cáncer de glóbulos blancos;leucemia
+L;Roca azul de joyería;lapislázuli
+M;Ciudad del Kremlin;moscú
+M;Ciencia de los algoritmos;matemáticas
+M;Roca metamórfica caliza;mármol
+M;Director de orquesta;maestro
+M;Mil ochocientos cincuenta y dos metros;milla
+N;Capital de Kenia;nairobi
+N;Gas noble de número diez;neón
+N;Infección de pulmones;neumonía
+N;Deidad de los bosques;ninfa
+N;Estado con capital Albany;nueva york
+O;Sede del gobierno canadiense;ottawa
+O;Medicina de los ojos;oftalmología
+O;Conjunto de instrumentistas;orquesta
+O;Vidrio volcánico negro;obsidiana
+O;Elemento para la combustión;oxígeno
+P;Ciudad de Bohemia;praga
+P;Estudio de la conducta;psicología
+P;Carga positiva del núcleo;protón
+P;Tumba monumental egipcia;pirámide
+P;Extensión mundial de un virus;pandemia
+Q;Destilado del petróleo;queroseno
+Q;Región francófona de Canadá;quebec
+Q;El caballero de la triste figura;quijote
+Q;Grupo de cinco músicos;quinteto
+Q;Sala de operaciones;quirófano
+R;Capital del reino saudí;riad
+R;Movimiento cultural del s. xix;romanticismo
+R;Corindón rojo;rubí
+R;Mamífero con cuerno en el hocico;rinoceronte
+R;Composición en verso;rima
+S;Capital de la nación chilena;santiago
+S;Tubo de metal curvado;saxofón
+S;Siete días naturales;semana
+S;Sexto planeta del sol;saturno
+S;Noveno signo del zodiaco;sagitario
+T;Capital de la república iraní;teherán
+T;Seísmo de gran magnitud;terremoto
+T;Lentes para ver astros;telescopio
+T;Elemento químico número 22;titanio
+T;Mide el calor corporal;termómetro
+U;Combustible de reactores nucleares;uranio
+U;Órgano de la gestación;útero
+U;Ciudad sumeria de Abraham;ur
+U;Nación de Asia Central;uzbekistán
+U;Planeta gigante helado;urano
+V;Ciudad de los valses;viena
+V;Montaña de fuego de Nápoles;vesubio
+V;Microorganismo patógeno;virus
+V;Planeta similar a la tierra;venus
+V;Ser que bebe sangre;vampiro
+W;Unidad de potencia eléctrica;watt
+W;Derrota definitiva de Bonaparte;waterloo
+W;Distrito de Columbia;washington
+W;Esquí sobre tabla;wakeboard
+W;elemento de símbolo w;wolframio
+X;Rechazo al forastero;xenofobia
+X;Elemento de número 54;xenón
+X;Vegetal de climas áridos;xerófita
+X;Grabado en madera;xilografía
+X;Idiófono de percusión;xilófono
+Y;Lugar de origen de un mineral;yacimiento
+Y;Capital política de Camerún;yaundé
+Y;Huesecillo auditivo;yunque
+Y;Divisa del Japón;yen
+Y;Hojas para el mate;yerba
+Z;Principal ciudad croata;zagreb
+Z;Estudio científico de la fauna;zoología
+Z;Elemento químico número 30;zinc
+Z;Viento suave de poniente;zéfiro
+Z;Nave aérea de casco rígido;zepelín

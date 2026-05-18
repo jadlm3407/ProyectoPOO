@@ -1,0 +1,130 @@
+A;País cuya capital es Buenos Aires;argentina
+A;Metal ligero;aluminio
+A;Viajero del espacio;astronauta
+A;Polvo dulce blanco;azúcar
+A;Transporte público por carretera;autobús
+B;País más grande de Sudamérica;brasil
+B;Lugar para guardar dinero;banco
+B;Tela representativa de un país;bandera
+B;Calzado deportivo;bamba
+B;Embarcación marina;barco
+C;País de América del Norte;canadá
+C;Ropa de vestir con cuello;camisa
+C;Animal con joroba;camello
+C;Material de construcción;cemento
+C;Sala de películas;cine
+D;País con capital Copenhague;dinamarca
+D;Médico de los dientes;dentista
+D;Piedra más valiosa y dura;diamante
+D;Carnet de identidad;dni
+D;Último mes del año;diciembre
+E;Continente de Francia e Italia;europa
+E;Máquina para subir pisos;elevador
+E;Primer mes del año;enero
+E;Persona que redacta libros;escritor
+E;Protección de los caballeros;escudo
+F;Mes con menos días;febrero
+F;País cuya capital es Helsinki;finlandia
+F;Padres e hijos;familia
+F;Lugar de producción industrial;fábrica
+F;Coche grande de reparto;furgoneta
+G;País cuna de la democracia;grecia
+G;Ropa para las manos;guante
+G;Macho de la gallina;gallo
+G;Líquido para el motor;gasolina
+G;Defensor de la portería;guardameta
+H;Lugar donde se vive;hogar
+H;Parte rígida del cuerpo;hueso
+H;Animal que parece reír;hiena
+H;Fruto dulce de la higuera;higo
+H;Varón adulto;hombre
+I;País con capital Nueva Delhi;india
+I;Estación más fría;invierno
+I;Máquina que pasa fotos a papel;impresora
+I;Idioma de Estados Unidos;inglés
+I;Bicho pequeño de seis patas;insecto
+J;País del sol naciente;japón
+J;Séptimo mes del año;julio
+J;Día antes del viernes;jueves
+J;Ropa de lana para el torso;jersey
+J;Persona que participa en un deporte;jugador
+K;Medida de mil gramos;kilo
+K;País africano;kenia
+K;Fruta verde ácida;kiwi
+K;Salsa de tomate americana;kétchup
+K;Coche pequeño de carreras;kart
+L;Capital de Inglaterra;londres
+L;Primer día de la semana;lunes
+L;Pájaro que imita voces;loro
+L;Recipiente de metal para refresco;lata
+L;Aparato que ilumina;lámpara
+M;País del taco y el tequila;méxico
+M;Vehículo motorizado de dos ruedas;moto
+M;Fruta de piel aterciopelada;melocotón
+M;Quinto mes del año;mayo
+M;Masa de agua salada;mar
+N;País de los fiordos;noruega
+N;Agua helada blanca;nieve
+N;Punto cardinal opuesto al sur;norte
+N;Periodo sin sol;noche
+N;Vehículo que va a la luna;nave
+O;Estación en que caen las hojas;otoño
+O;Metal amarillo brillante;oro
+O;Mes de Halloween;octubre
+O;Número impar después del diez;once
+O;Instrumento de viento para iglesias;órgano
+P;País fronterizo con España;portugal
+P;Ciudad de la luz;parís
+P;Ave marina que no vuela;pingüino
+P;Comida básica de harina;pan
+P;Fruta con forma de bombilla;pera
+Q;Número que es tres por cinco;quince
+Q;Capital de Ecuador;quito
+Q;Producto lácteo sólido;queso
+Q;Experto en elementos químicos;químico
+Q;Aparato que desprende llama;quemador
+R;Capital de Italia;roma
+R;Color entre rojo y blanco;rosa
+R;Flor con espinas;rosa
+R;Roedor de alcantarilla;ratón
+R;Aparato para oír noticias;radio
+S;País de Estocolmo;suecia
+S;Día del fin de semana;sábado
+S;Condimento de mar;sal
+S;Zapatilla abierta;sandalia
+S;Asiento cómodo para tres;sofá
+T;Capital de Japón;tokio
+T;Infusión de hojas;té
+T;Pez carnívoro con aletas;tiburón
+T;Caja que emite imágenes;televisión
+T;Coche de alquiler con conductor;taxi
+U;País cuya capital es Montevideo;uruguay
+U;Fruta para hacer vino;uva
+U;Cifra unidad;uno
+U;Cosa necesaria para trabajar;utensilio
+U;Séptimo planeta del sistema solar;urano
+V;País de Caracas;venezuela
+V;Estación de vacaciones;verano
+V;Instrumento pequeño de cuerda;violín
+V;Color de los prados;verde
+V;Líquido para la ensalada;vinagre
+W;Apellido del primer presidente de usa;washington
+W;Licor de cereales;whisky
+W;Sitio de internet;web
+W;Balonmano en el agua;waterpolo
+W;Reproductor de casetes portátil;walkman
+X;Instrumento de percusión;xilófono
+X;Gas de lámparas;xenón
+X;Odio al extranjero;xenofobia
+X;Marca de impresoras;xerox
+X;Número diez romano;x
+Y;País al sur de Arabia;yemen
+Y;Lácteo de cuchara;yogur
+Y;Barco recreativo;yate
+Y;Mujer del caballo;yegua
+Y;Material para escayolas;yeso
+Z;Animal astuto;zorro
+Z;Calzado de cuero;zapato
+Z;Raíz naranja;zanahoria
+Z;Recinto de animales;zoológico
+Z;Metal de las canaletas;zinc

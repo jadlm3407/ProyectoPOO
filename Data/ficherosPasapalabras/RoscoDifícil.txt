@@ -1,0 +1,130 @@
+A;Error que consiste en situar algo fuera de su época correcta.;anacronismo
+A;Libertad individual que requiere reflexión y elección consciente.;albedrío
+A;Trastorno de ansiedad caracterizado por el miedo a los espacios abiertos.;agorafobia
+A;Falta o pérdida anormal de la sensación de sed.;adipsia
+A;Proposición tan clara y evidente que se admite sin necesidad de demostración.;axioma
+B;Relativo a la vida en el campo o a la poesía pastoril, idealizado y tranquilo.;bucólico
+B;Nación, potencia o grupo que está en guerra.;beligerante
+B;Voz masculina intermedia entre la de tenor y la de bajo.;barítono
+B;Líquido amarillo verdoso segregado por el hígado.;bilis
+B;Estado de la persona que contrae un segundo matrimonio sin haber disuelto el primero.;bigamia
+C;Disonancia o sonido desagradable que resulta de la combinación de palabras.;cacofonía
+C;Trastorno mental que impulsa a robar objetos sin necesidad.;cleptomanía
+C;Purificación o liberación de emociones a través del arte.;catarsis
+C;Reunión de cardenales para elegir a un nuevo Papa.;cónclave
+C;Ciencia que se encarga del estudio y la elaboración de mapas.;cartografía
+D;Estrategia política que apela a las emociones y prejuicios.;demagogia
+D;Adjetivo que se refiere a algo espantoso o infernal.;dantesco
+D;Inducir o mover a alguien a cambiar de opinión.;disuadir
+D;División de un concepto en dos aspectos opuestos.;dicotomía
+D;Verdad absoluta que no admite duda ni discusión.;dogma
+E;Facultad de hablar o escribir de modo eficaz para deleitar.;elocuencia
+E;Que toma elementos de diferentes estilos o sistemas.;ecléctico
+E;Palabra suave que sustituye a otra de mal gusto u ofensiva.;eufemismo
+E;Dicho de una enfermedad o especie que es propia y exclusiva de una zona.;endémico
+E;Que está basado en la experiencia y en la observación de los hechos.;empírico
+F;Argumento que parece válido pero que en realidad no lo es.;falacia
+F;Contrato para explotar un negocio ya establecido con la marca de un tercero.;franquicia
+F;Tierra o derecho que un señor concedía a su vasallo en la Edad Media.;feudo
+F;Hilo muy fino de material transparente para transmitir datos a alta velocidad.;fibra óptica
+F;Cualidad de ser moderado en la comida o usar solo lo necesario.;frugalidad
+G;Rama de la filosofía que estudia la naturaleza y los límites del conocimiento.;gnoseología
+G;Estadio temprano del desarrollo embrionario.;gástrula
+G;Proceso de renovación de un barrio que desplaza a sus habitantes originales.;gentrificación
+G;Disciplina que estudia y traza el linaje y ascendencia de una persona.;genealogía
+G;Carga o impuesto que se impone sobre un bien o una actividad.;gravamen
+H;Dispositivo giratorio con palas que impulsa aviones o barcos.;hélice
+H;El elemento químico más ligero y abundante del universo.;hidrógeno
+H;Rama de la medicina que estudia la sangre y sus enfermedades.;hematología
+H;Suposición que se establece provisionalmente como base de una investigación.;hipótesis
+H;Movimiento cultural que sitúa al ser humano y sus valores en el centro.;humanismo
+I;Dinero que los ciudadanos deben pagar obligatoriamente al Estado.;impuesto
+I;Sistema de comunicación verbal y escrito (lengua).;idioma
+I;Conjunto de rasgos propios que caracterizan a una persona.;identidad
+I;Esperanza sin fundamento o interpretación errónea de la realidad.;ilusión
+I;Propiedad de la materia que resiste a un cambio en su movimiento.;inercia
+J;Orden de elementos según su valor, rango o importancia.;jerarquía
+J;Poder para juzgar y aplicar las leyes en un territorio determinado.;jurisdicción
+J;La religión monoteísta más antigua, originada en el pueblo hebreo.;judaísmo
+J;Raíz de sabor picante usada como especia o remedio.;jengibre
+J;El tiempo de trabajo que realiza una persona cada día.;jornada
+K;Unidad de temperatura utilizada en el Sistema Internacional.;kelvin
+K;Físico teórico conocido por sus trabajos en cosmología.;krauss
+K;Gas noble incoloro e inodoro utilizado en iluminación.;kriptón
+K;Relativo a la ley del karma (las consecuencias de las acciones).;kármico
+K;Ciudadela fortificada situada en el centro de Moscú, sede del gobierno ruso.;kremlin
+L;Distancia angular entre un punto de la Tierra y el Ecuador.;latitud
+L;Parte de la filosofía que estudia las formas correctas de razonar.;lógica
+L;Narración popular que mezcla hechos reales con fantásticos.;leyenda
+L;Enfrentamiento o disputa legal entre dos partes.;litigio
+L;Aquello que se transmite o se deja a las generaciones futuras.;legado
+M;Figura retórica que consiste en nombrar un objeto con el nombre de otro con el que tiene parecido.;metáfora
+M;Forma de gobierno en la que el jefe del Estado es un rey o reina.;monarquía
+M;Cambio o alteración en el material genético de un ser vivo.;mutación
+M;Persona que pertenece o defiende activamente una ideología o partido.;militante
+M;Objeto que cubre el rostro y sirve para disfrazarse o proteger.;máscara
+N;Gas incoloro e inodoro, el componente más abundante del aire.;nitrógeno
+N;Periodo de la Prehistoria donde se inició la agricultura y ganadería.;neolítico
+N;Tipo de gusano cilíndrico, generalmente parásito.;nematodo
+N;Admiración excesiva y exagerada que alguien siente por sí mismo.;narcisismo
+N;Que se dice o nombra, pero no existe en la práctica o no es real.;nominal
+O;Trayectoria que sigue un cuerpo alrededor de otro en el espacio.;órbita
+O;Forma de gobierno donde el poder está en manos de unos pocos.;oligarquía
+O;Género musical teatral en el que la acción se desarrolla con canto.;ópera
+O;Viaje largo lleno de aventuras y dificultades.;odisea
+O;Sustancia que provoca la oxidación de otra.;oxidante
+P;Narración corta con una enseñanza moral.;parábola
+P;Modelo o molde que sirve de referencia.;patrón
+P;Sistema en el que existen diversas tendencias políticas, sociales o ideológicas.;pluralismo
+P;Periodo de la Prehistoria caracterizado por el uso de herramientas de piedra.;paleolítico
+P;Último en una serie o en el tiempo; final.;postrero
+Q;Adivinación del futuro por las líneas de la mano.;quiromancia
+Q;La esencia o el punto clave de un asunto.;quid
+Q;Ilusión, fantasía o sueño que se persigue.;quimera
+Q;Cada una de las cuatro partes que dividen una distribución de datos.;quintil
+Q;Pieza de la puerta o ventana donde encaja para girar; también, punto clave.;quicio
+R;Doctrina que afirma que la razón es la principal fuente del conocimiento.;racionalismo
+R;Arte de dar al lenguaje eficacia para persuadir o conmover.;retórica
+R;Sistema político o social que rige un estado; también, dieta.;régimen
+R;Lugar que sirve para proteger o resguardar de un peligro.;refugio
+R;Río que cruzó Julio César; acto irreversible y arriesgado.;rubicón
+S;Ciencia que estudia los diferentes sistemas de signos para la comunicación.;semiótica
+S;Sistema político y económico basado en la propiedad social de los medios de producción.;socialismo
+S;Nivel de la mente que influye en el comportamiento, pero que no es totalmente consciente.;subconsciente
+S;Clase de palabra que nombra personas, cosas o ideas.;sustantivo
+S;Pérdida repentina y breve de la conciencia.;síncope
+T;Ciencia que se ocupa de la clasificación de los seres vivos.;taxonomía
+T;Sistema de gobierno en el que la autoridad es ejercida por Dios o su clero.;teocracia
+T;Perteneciente o relativo al planeta Tierra.;telúrico
+T;Virtud que consiste en la moderación y sobriedad en el uso de los sentidos.;templanza
+T;Que no tiene importancia, valor o interés.;trivial
+U;Cualidad de estar presente en todas partes al mismo tiempo.;ubicuidad
+U;Que tiene un solo significado o que no admite variación.;unívoco
+U;Uso de una forma lingüística incorrecta por imitar otra que se considera más culta.;ultracorrección
+U;Estudio o investigación del fenómeno de los ovnis.;ufología
+U;Derecho a usar y disfrutar de los bienes ajenos con la obligación de conservarlos.;usufructo
+V;Movimiento artístico o político que está a la cabeza y rompe con lo tradicional.;vanguardia
+V;Predicción o adivinación de un suceso futuro.;vaticinio
+V;Alternancia de sucesos favorables y adversos.;vicisitud
+V;Que posee la capacidad de causar enfermedad; también, que es maligno y agresivo.;virulento
+V;Injuria, deshonor o desprecio que se dice a alguien.;vituperio
+W;Nombre de un antiguo partido liberal y progresista del Reino Unido.;whig
+W;Elemento químico, metal pesado y de alto punto de fusión.;wólfram
+W;Unidad de flujo magnético en el Sistema Internacional.;weber
+W;Colina fortificada en Cracovia, Polonia, con un castillo histórico.;wawel
+W;Nombre de pila alemán, famoso por varios emperadores prusianos.;wilhelm
+X;Tejido vegetal que transporta agua y sales minerales de la raíz a las hojas.;xilema
+X;Nombre de la esposa de Sócrates, famosa por su mal genio.;xantipa
+X;Que se alimenta de madera, como ciertos insectos.;xilófago
+X;Sustancia cuya estructura es extraña a un organismo o sistema biológico.;xenobiótico
+X;Gas noble incoloro, inodoro y pesado.;xénon
+Y;Concepto islámico de lucha, a menudo interpretado como “guerra santa”.;yihad
+Y;Lugar donde se hallan restos arqueológicos o geológicos.;yacimiento
+Y;Compuesto que contiene el elemento yodo.;yoduro
+Y;Dejar sin vegetación, sin cultivar o sin habitantes (yermo).;yermar
+Y;Par de bueyes o mulas que trabajan juntos uncidos al arado.;yunta
+Z;Punto del cielo que está justo encima de la cabeza del observador.;zénit
+Z;Ciencia que estudia la cría, producción y explotación de animales domésticos.;zootecnia
+Z;Franja de la esfera celeste dividida en doce constelaciones.;zodíaco
+Z;Movimiento brusco y continuado de un lado a otro.;zangoloteo
+Z;Forma de poema tradicional español con estribillo.;zéjel
