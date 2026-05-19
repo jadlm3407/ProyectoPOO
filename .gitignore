@@ -1,0 +1,14 @@
+# Compilados Java
+bin/
+*.class
+
+# VSCode (opcional: si el equipo no usa VSCode uniforme, ignorar settings)
+.vscode/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
