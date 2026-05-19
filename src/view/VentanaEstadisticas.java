@@ -1,5 +1,5 @@
 package view;
-
+//tu madre en tanga
 import model.Jugador;
 import model.Estadistica;
 
