@@ -1,11 +1,19 @@
 package control;
-import model.pasapalabras.*;
 
-public class main {
-    public static void main(String[] args) {
-        Jugador jugador = new Jugador("jugador1", "1234");
-        Pasapalabra juego = new Pasapalabra(jugador);
-        juego.inicializar();
-        juego.empezarJuego();
-    }
+import java.awt.event.ActionListener;
+import java.awt.event.MouseListener;
+import java.awt.event.TextListener;
+
+import javax.swing.SwingUtilities;
+
+import view.VentanaPrincipal;
+
+public class Controlador {
+	public static void main(String[] args) {
+		SwingUtilities.invokeLater(() -> {
+			ControlApp controlador = new ControlApp();
+			VentanaPrincipal ventana = new VentanaPrincipal(controlador);
+			ventana.setVisible(true);
+		});
+	}
 }
