@@ -6,8 +6,7 @@ import model.Pong.*;
 
 public class ControlPong {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public void AbrirVentana() {
 		Scanner teclado = new Scanner(System.in);
 		int n;
 		do {

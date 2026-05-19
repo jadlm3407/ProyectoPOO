@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 import model.Snake.*;
 
 public class ControlSnake {
-    public static void main(String[] args) {
+    public void AbrirVentana() {
         JFrame ventana = new JFrame("Snake");
         ventana.setSize(616, 700);
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
