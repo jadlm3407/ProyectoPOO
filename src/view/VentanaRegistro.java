@@ -1,22 +1,15 @@
 package view;
 
 import javax.swing.*;
-
-import control.*;
-
 import java.awt.*;
-import java.awt.event.*;
 
-public class VentanaPrincipal extends JFrame implements MouseListener, TextListener, ActionListener{
+public class VentanaRegistro extends JFrame {
 
-	private ControladorApp controlador;
-	
-	public VentanaPrincipal(ControladorApp controlador) {
+	public VentanaRegistro() {
 
-		this.controlador = controlador;
 		setTitle("Patata Caliente");
-		setSize(1000, 750);
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Cierra la app al cerrar la ventana
+		setSize(800, 600);
+		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE); // Cierra la app al cerrar la ventana
 		setLocationRelativeTo(null); // Centra la ventana al centro
 
 		setLayout(new BorderLayout());
@@ -51,7 +44,7 @@ public class VentanaPrincipal extends JFrame implements MouseListener, TextListe
 	            }
 	        }
 	    });
-	    gbc.gridx = 0; gbc.gridy = 1;
+	    gbc.gridx = 0; gbc.gridy = 0;
 	    panelCentral.add(CajaUsuario, gbc);
 
 	 // Caja de contraseña
@@ -76,73 +69,18 @@ public class VentanaPrincipal extends JFrame implements MouseListener, TextListe
 	            }
 	        }
 	    });
-	    gbc.gridx = 0; gbc.gridy = 3;
+	    gbc.gridx = 0; gbc.gridy = 1;
 	    panelCentral.add(CajaContraseña, gbc);
 
-	    // Botón iniciar sesión
-	    JButton btnLogin = new JButton("Iniciar sesión");
-	    btnLogin.setFont(fuente);
-	    btnLogin.setPreferredSize(new Dimension(200, 30));
-	    gbc.gridx = 0; gbc.gridy = 4;
-	    panelCentral.add(btnLogin, gbc);
 
 	    // Botón registrarse
-	    JButton btnRegistro = new JButton("Registrarse");
+	    JButton btnRegistro = new JButton("Registrarme");
 	    btnRegistro.setFont(fuente);
 	    btnRegistro.setPreferredSize(new Dimension(200, 30));
-	    gbc.gridx = 0; gbc.gridy = 5;
+	    gbc.gridx = 0; gbc.gridy = 3;
 	    panelCentral.add(btnRegistro, gbc);
 
 	    add(panelCentral, BorderLayout.CENTER);
-	    
-	    btnRegistro.addMouseListener(new MouseAdapter() {
-	    	
-	    	@Override
-	    	public void mouseClicked(MouseEvent e) {
-	    		controlador.abrirVentana();
-	    	}
-	    });
-	}
-
-	@Override
-	public void textValueChanged(TextEvent e) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void mousePressed(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void mouseReleased(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void mouseEntered(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void mouseExited(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void mouseClicked(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void actionPerformed(ActionEvent e) {
-		// TODO Auto-generated method stub
-		
 	}
 }
+
